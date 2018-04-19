@@ -23,7 +23,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><b>Lecture scenario</b></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 1</b><br>Computer experience:3<br>InfoVis experience:2</td>
+    <td colspan="3"><b>Participant 1</b><br>Computer experience: 3<br>InfoVis experience: 2</td>
   </tr>
   <tr>
     <td><img src="sketches/1_1.png" alt="TODO"></td>
@@ -31,7 +31,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/1_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 2</b><br>Computer experience:5<br>InfoVis experience:4</td>
+    <td colspan="3"><b>Participant 2</b><br>Computer experience: 5<br>InfoVis experience: 4</td>
   </tr>
   <tr>
     <td><img src="sketches/2_1.png" alt="TODO"></td>
@@ -39,7 +39,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/2_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 3</b><br>Computer experience:1<br>InfoVis experience:1</td>
+    <td colspan="3"><b>Participant 3</b><br>Computer experience: 1<br>InfoVis experience: 1</td>
   </tr>
   <tr>
     <td><img src="sketches/3_1.png" alt="TODO"></td>
@@ -47,13 +47,13 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/3_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 4</b><br>Computer experience:1<br>InfoVis experience:1</td>
+    <td colspan="3"><b>Participant 4</b><br>Computer experience: 1<br>InfoVis experience: 1</td>
   </tr>
   <tr>
     <td colspan="3">This participant did not provide any sketches.</td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 5</b><br>Computer experience:5<br>InfoVis experience:4</td>
+    <td colspan="3"><b>Participant 5</b><br>Computer experience: 5<br>InfoVis experience: 4</td>
   </tr>
   <tr>
     <td><img src="sketches/5_1.png" alt="TODO"></td>
@@ -61,7 +61,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/5_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 6</b><br>Computer experience:3<br>InfoVis experience:2</td>
+    <td colspan="3"><b>Participant 6</b><br>Computer experience: 3<br>InfoVis experience: 2</td>
   </tr>
   <tr>
     <td><img src="sketches/6_1.png" alt="TODO"></td>
@@ -69,7 +69,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/6_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 7</b><br>Computer experience:1<br>InfoVis experience:1</td>
+    <td colspan="3"><b>Participant 7</b><br>Computer experience: 1<br>InfoVis experience: 1</td>
   </tr>
   <tr>
     <td><img src="sketches/7_1.png" alt="TODO"></td>
@@ -77,7 +77,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/7_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 8</b><br>Computer experience:3<br>InfoVis experience:3</td>
+    <td colspan="3"><b>Participant 8</b><br>Computer experience: 3<br>InfoVis experience: 3</td>
   </tr>
   <tr>
     <td><img src="sketches/8_1.png" alt="TODO"></td>
@@ -85,7 +85,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/8_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 9</b><br>Computer experience:3<br>InfoVis experience:3</td>
+    <td colspan="3"><b>Participant 9</b><br>Computer experience: 3<br>InfoVis experience: 3</td>
   </tr>
   <tr>
     <td><img src="sketches/9_1.png" alt="TODO"></td>
@@ -93,7 +93,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/9_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 10</b><br>Computer experience:5<br>InfoVis experience:5</td>
+    <td colspan="3"><b>Participant 10</b><br>Computer experience: 5<br>InfoVis experience: 5</td>
   </tr>
   <tr>
     <td><img src="sketches/10_1.png" alt="TODO"></td>
@@ -101,7 +101,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/10_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 11</b><br>Computer experience:3<br>InfoVis experience:1</td>
+    <td colspan="3"><b>Participant 11</b><br>Computer experience: 3<br>InfoVis experience: 1</td>
   </tr>
   <tr>
     <td><img src="sketches/11_1.png" alt="TODO"></td>
@@ -109,7 +109,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/11_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 12</b><br>Computer experience:5<br>InfoVis experience:1</td>
+    <td colspan="3"><b>Participant 12</b><br>Computer experience: 5<br>InfoVis experience: 1</td>
   </tr>
   <tr>
     <td><img src="sketches/12_1.png" alt="TODO"></td>
@@ -117,7 +117,7 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/12_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 13</b><br>Computer experience:5<br>InfoVis experience:3</td>
+    <td colspan="3"><b>Participant 13</b><br>Computer experience: 5<br>InfoVis experience: 3</td>
   </tr>
   <tr>
     <td><img src="sketches/13_1.png" alt="TODO"></td>
@@ -125,12 +125,156 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
     <td><img src="sketches/13_3.png" alt="TODO"></td>
   </tr>
   <tr>
-    <td colspan="3"><b>Participant 14</b><br>Computer experience:1<br>InfoVis experience:1</td>
+    <td colspan="3"><b>Participant 14</b><br>Computer experience: 1<br>InfoVis experience: 1</td>
   </tr>
   <tr>
     <td><img src="sketches/14_1.png" alt="TODO"></td>
     <td><img src="sketches/14_2.png" alt="TODO"></td>
     <td><img src="sketches/14_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 15</b><br>Computer experience: 5<br>InfoVis experience: 4</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/15_1.png" alt="TODO"></td>
+    <td><img src="sketches/15_2.png" alt="TODO"></td>
+    <td><img src="sketches/15_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 16</b><br>Computer experience: 5<br>InfoVis experience: 4</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/16_1.png" alt="TODO"></td>
+    <td><img src="sketches/16_2.png" alt="TODO"></td>
+    <td><img src="sketches/16_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 17</b><br>Computer experience: 5<br>InfoVis experience: 4</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/17_1.png" alt="TODO"></td>
+    <td><img src="sketches/17_2.png" alt="TODO"></td>
+    <td><img src="sketches/17_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 18</b><br>Computer experience: 5<br>InfoVis experience: 4</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/18_1.png" alt="TODO"></td>
+    <td><img src="sketches/18_2.png" alt="TODO"></td>
+    <td><img src="sketches/18_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 19</b><br>Computer experience: 5<br>InfoVis experience: 4</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/19_1.png" alt="TODO"></td>
+    <td><img src="sketches/19_2.png" alt="TODO"></td>
+    <td><img src="sketches/19_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 20</b><br>Computer experience: 5<br>InfoVis experience: 3</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/20_1.png" alt="TODO"></td>
+    <td><img src="sketches/20_2.png" alt="TODO"></td>
+    <td><img src="sketches/20_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 21</b><br>Computer experience: 1<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/21_1.png" alt="TODO"></td>
+    <td><img src="sketches/21_2.png" alt="TODO"></td>
+    <td><img src="sketches/21_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 22</b><br>Computer experience: 3<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/22_1.png" alt="TODO"></td>
+    <td><img src="sketches/22_2.png" alt="TODO"></td>
+    <td><img src="sketches/22_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 23</b><br>Computer experience: 5<br>InfoVis experience: 3</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/23_1.png" alt="TODO"></td>
+    <td><img src="sketches/23_2.png" alt="TODO"></td>
+    <td><img src="sketches/23_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 24</b><br>Computer experience: 5<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/24_1.png" alt="TODO"></td>
+    <td><img src="sketches/24_2.png" alt="TODO"></td>
+    <td><img src="sketches/24_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 25</b><br>Computer experience: 5<br>InfoVis experience: 3</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/25_1.png" alt="TODO"></td>
+    <td><img src="sketches/25_2.png" alt="TODO"></td>
+    <td><img src="sketches/25_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 26</b><br>Computer experience: 5<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/26_1.png" alt="TODO"></td>
+    <td><img src="sketches/26_2.png" alt="TODO"></td>
+    <td><img src="sketches/26_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 27</b><br>Computer experience: 3<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/27_1.png" alt="TODO"></td>
+    <td><img src="sketches/27_2.png" alt="TODO"></td>
+    <td><img src="sketches/27_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 28</b><br>Computer experience: 5<br>InfoVis experience: 5</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/28_1.png" alt="TODO"></td>
+    <td>1st task: <img src="sketches/28_2_1.png" alt="TODO"> 2nd task: <img src="sketches/28_2_2.png" alt="TODO"></td>
+    <td><img src="sketches/28_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 29</b><br>Computer experience: 3<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/29_1.png" alt="TODO"></td>
+    <td><img src="sketches/29_2.png" alt="TODO"></td>
+    <td><img src="sketches/29_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 30</b><br>Computer experience: 3<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/30_1.png" alt="TODO"></td>
+    <td><img src="sketches/30_2.png" alt="TODO"></td>
+    <td><img src="sketches/30_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 31</b><br>Computer experience: 1<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/31_1.png" alt="TODO"></td>
+    <td>1st task: <img src="sketches/31_2_1.png" alt="TODO"> 2nd task: <img src="sketches/31_2_2.png" alt="TODO"></td>
+    <td><img src="sketches/31_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 32</b><br>Computer experience: 5<br>InfoVis experience: 1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/32_1.png" alt="TODO"></td>
+    <td><img src="sketches/32_2.png" alt="TODO"></td>
+    <td><img src="sketches/32_3.png" alt="TODO"></td>
   </tr>
 </table>
 
