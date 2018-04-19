@@ -1,4 +1,4 @@
-<h1 align="center"> Supplementary material to:</br> Sketching Temporal Uncertainty - An Exploratory User Study </h1>
+<h1 align="center"> Supplementary material to:<br> Sketching Temporal Uncertainty - An Exploratory User Study </h1>
 
 <p align="center">TODO: authors </p>
 
