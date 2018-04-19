@@ -1,6 +1,6 @@
 <h1 align="center"> Supplementary material to:<br> Sketching Temporal Uncertainty - An Exploratory User Study </h1>
 
-<p align="center">TODO: authors </p>
+<p align="center">Fabian Schwarzinger<sup>1</sup>, Andreas Roschal<sup>1</sup>, and Theresia Gschwandtner<sup>1</sup><br><sup>1</sup>TU Wien, Austria</p>
 
 This is supplementary material to our work, in which we present an exploratory user study. Our 32 participants were provided with three scenario descriptions each and were asked to visually present the given information. They sketched their spontaneous visualization designs with pen and paper and verbally described how they imagine their designs to work in practice. 
 
