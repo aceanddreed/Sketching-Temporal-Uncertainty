@@ -18,56 +18,121 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
 
 <table>
   <tr>
-    <td>Bus scenario</td>
-    <td>Project scenario</td>
-    <td>Lecture scenario</td>
+    <td><b>Bus scenario</b></td>
+    <td><b>Project scenario</b></td>
+    <td><b>Lecture scenario</b></td>
   </tr>
   <tr>
     <td colspan="3"><b>Participant 1</b><br>Computer experience:3<br>InfoVis experience:2</td>
   </tr>
   <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
+    <td><img src="sketches/1_1.png" alt="TODO"></td>
+    <td><img src="sketches/1_2.png" alt="TODO"></td>
+    <td><img src="sketches/1_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 2</b><br>Computer experience:5<br>InfoVis experience:4</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/2_1.png" alt="TODO"></td>
+    <td><img src="sketches/2_2.png" alt="TODO"></td>
+    <td><img src="sketches/2_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 3</b><br>Computer experience:1<br>InfoVis experience:1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/3_1.png" alt="TODO"></td>
+    <td><img src="sketches/3_2.png" alt="TODO"></td>
+    <td><img src="sketches/3_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 4</b><br>Computer experience:1<br>InfoVis experience:1</td>
+  </tr>
+  <tr>
+    <td colspan="3">This participant did not provide any sketches.</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 5</b><br>Computer experience:5<br>InfoVis experience:4</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/5_1.png" alt="TODO"></td>
+    <td><img src="sketches/5_2.png" alt="TODO"></td>
+    <td><img src="sketches/5_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 6</b><br>Computer experience:3<br>InfoVis experience:2</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/6_1.png" alt="TODO"></td>
+    <td><img src="sketches/6_2.png" alt="TODO"></td>
+    <td><img src="sketches/6_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 7</b><br>Computer experience:1<br>InfoVis experience:1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/7_1.png" alt="TODO"></td>
+    <td><img src="sketches/7_2.png" alt="TODO"></td>
+    <td><img src="sketches/7_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 8</b><br>Computer experience:3<br>InfoVis experience:3</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/8_1.png" alt="TODO"></td>
+    <td><img src="sketches/8_2.png" alt="TODO"></td>
+    <td><img src="sketches/8_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 9</b><br>Computer experience:3<br>InfoVis experience:3</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/9_1.png" alt="TODO"></td>
+    <td><img src="sketches/9_2.png" alt="TODO"></td>
+    <td><img src="sketches/9_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 10</b><br>Computer experience:5<br>InfoVis experience:5</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/10_1.png" alt="TODO"></td>
+    <td><img src="sketches/10_2.png" alt="TODO"></td>
+    <td><img src="sketches/10_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 11</b><br>Computer experience:3<br>InfoVis experience:1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/11_1.png" alt="TODO"></td>
+    <td><img src="sketches/11_2.png" alt="TODO"></td>
+    <td><img src="sketches/11_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 12</b><br>Computer experience:5<br>InfoVis experience:1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/12_1.png" alt="TODO"></td>
+    <td><img src="sketches/12_2.png" alt="TODO"></td>
+    <td><img src="sketches/12_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 13</b><br>Computer experience:5<br>InfoVis experience:3</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/13_1.png" alt="TODO"></td>
+    <td><img src="sketches/13_2.png" alt="TODO"></td>
+    <td><img src="sketches/13_3.png" alt="TODO"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 14</b><br>Computer experience:1<br>InfoVis experience:1</td>
+  </tr>
+  <tr>
+    <td><img src="sketches/14_1.png" alt="TODO"></td>
+    <td><img src="sketches/14_2.png" alt="TODO"></td>
+    <td><img src="sketches/14_3.png" alt="TODO"></td>
   </tr>
 </table>
 
 
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aceanddreed/Sketching-Temporal-Uncertainty/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aceanddreed/Sketching-Temporal-Uncertainty/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
