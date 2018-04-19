@@ -16,6 +16,22 @@ To make it easier to compare the drawings to the corresponding scenario, we reca
 
 1. Lecture scenario – ’Two lectures are taking place after each other. The first lecture will end between 11:50 and 12:05, while the second lecture will start between 12:00 and 12:15. How would you visualize this scenario to be able to judge the probability of an overlap of the two lectures? Furthermore, it should be possible to accurately judge the interval in which an overlap can take place.’
 
+<table>
+  <tr>
+    <td>Bus scenario</td>
+    <td>Project scenario</td>
+    <td>Lecture scenario</td>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Participant 1</b><br>Computer experience:3<br>InfoVis experience:2</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+</table>
+
 
 
 ## Welcome to GitHub Pages
